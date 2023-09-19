@@ -1,21 +1,3 @@
-# Overview
-
-[doc-site](https://fastn-community.github.io/doc-site/) will help you create
-a beautiful documentation site in no time.
-
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
-
-# Preview
-
-![doc-site](.github/assets/doc-site-example-dark.jpg)
-
-## Get Rolling
-
-[Click here](https://fastn-community.github.io/doc-site/) to learn how to use this template.
-
-# [Dive into the Docs](https://fastn-community.github.io/doc-site/)
-
 # fastn Track - FAQ accordion card
 
 ![Design preview for the FAQ accordion card coding challenge](./assets/design/desktop-preview.jpg)
@@ -97,6 +79,25 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 *Have fun building!* 🚀
+
+
+# Overview
+
+[doc-site](https://fastn-community.github.io/doc-site/) will help you create
+a beautiful documentation site in no time.
+
+It provides out-of-the-box documentation features that can be used to create any
+kind of site(personal website, blog, etc).
+
+# Preview
+
+![doc-site](.github/assets/doc-site-example-dark.jpg)
+
+## Get Rolling
+
+[Click here](https://fastn-community.github.io/doc-site/) to learn how to use this template.
+
+# [Dive into the Docs](https://fastn-community.github.io/doc-site/)
 
 
 # See it in Action!
